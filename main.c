@@ -22,7 +22,8 @@ int main()
             return 0;
         }
         z++;
-    }
+    }//ako iskate dali dadeno niz e chislo tuk napishete:
+    //printf("Yes");
     b = b - 1;
     while(b >= 0)
     {
